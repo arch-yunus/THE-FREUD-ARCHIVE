@@ -1,6 +1,6 @@
 # Psikanalitik Sözlük (A-Z) - Temel Kavramlar
 
-Freud ve ardıllarının yarattığı psikanalitik jargon, zihnin derinliklerini haritalamak için oluşturulmuş özel bir dildir. Arşivi tam olarak okuyabilmek için bu işletim sisteminin temel terimlerini bilmek gerekir.
+Freud ve ardıllarının yarattığı psikanalitik jargon, zihnin derinliklerini haritalamak için oluşturulmuş özel bir dildir. Arşivi tam olarak okuyabilmek için psikanalizin temel terimlerini bilmek gerekir.
 
 ### A
 *   **Abreaction (Duygusal Boşalım):** Bastırılmış, travmatik bir anının bilince getirilmesi sırasında yaşanan yoğun duygusal boşalma ve rahatlama anı (Katarsis).
