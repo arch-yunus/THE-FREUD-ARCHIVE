@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./banner.png" alt="THE-FREUD-ARCHIVE Banner" width="100%">
+</div>
+
 # THE-FREUD-ARCHIVE
 ### İnsan Zihninin Derinlikler Psikolojisi ve Bilinçdışının Ontolojisi
 
