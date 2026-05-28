@@ -54,7 +54,9 @@ Bu depodaki araştırmalar şu temel Freudyen gerçekler üzerine inşa edilmiş
 ├── 📁 07-Ayrismalar_ve_Catismalar       # Jung, Adler ve Modern Nöro-Psikanalitik Eleştiriler
 ├── 📁 08-Metapsikoloji_Makaleleri       # Yas ve Melankoli, Narsisizm Üzerine
 ├── 📁 09-Psikoseksuel_Gelisim_Evreleri  # Oral, Anal, Fallik, Latent ve Genital Evreler
-└── 📁 10-Psikanalitik_Sozluk            # Psikanalitik Jargon ve Temel Kavramlar
+├── 📁 10-Psikanalitik_Sozluk            # Psikanalitik Jargon ve Temel Kavramlar
+├── 📁 11-Psikanaliz_ve_Sanat            # Dostoyevski, Baba Katli ve Tekinsizlik (Unheimliche)
+└── 📁 12-Kitle_Psikolojisi              # Kitlelerin İrrasyonalitesi ve Liderin Ego-İdeali Oluşu
 ```
 
 ## 🗝️ Araştırmacıya Epilog
