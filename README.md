@@ -56,7 +56,9 @@ Bu depodaki araştırmalar şu temel Freudyen gerçekler üzerine inşa edilmiş
 ├── 📁 09-Psikoseksuel_Gelisim_Evreleri  # Oral, Anal, Fallik, Latent ve Genital Evreler
 ├── 📁 10-Psikanalitik_Sozluk            # Psikanalitik Jargon ve Temel Kavramlar
 ├── 📁 11-Psikanaliz_ve_Sanat            # Dostoyevski, Baba Katli ve Tekinsizlik (Unheimliche)
-└── 📁 12-Kitle_Psikolojisi              # Kitlelerin İrrasyonalitesi ve Liderin Ego-İdeali Oluşu
+├── 📁 12-Kitle_Psikolojisi              # Kitlelerin İrrasyonalitesi ve Liderin Ego-İdeali Oluşu
+├── 📁 13-Biyografi_ve_Tarihce           # Sigmund Freud'un Hayatı ve Entelektüel Serüveni
+└── 📁 14-Alintilar_ve_Referanslar       # Freud'un Kendi Sözleri ve Hakkında Söylenenler
 ```
 
 ## 🗝️ Araştırmacıya Epilog
