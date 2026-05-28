@@ -152,6 +152,10 @@ Nevroz, Ego'nun gerçeklikle bağını tamamen koparmadan, İd'in dürtüleriyle
 
 ---
 
+<div align="center">
+  <img src="./banner_dreams.png" alt="Rüyalar Banner" width="100%">
+</div>
+
 # Bölüm 4: Bilinçdışının Dili - Rüyalar ve Sürçmeler
 
 Bilinçdışı doğrudan incelenemez; onun doğası ancak bilince sızan şifreli mesajlar aracılığıyla deşifre edilebilir. Freud, günlük yaşamdaki sıradan hataların ve gece gördüğümüz rüyaların asla tesadüfi olmadığını, tam aksine bilinçdışının kusursuz bir şekilde çalışan "anlamlı" dışavurumları olduğunu kanıtlamıştır.
@@ -185,6 +189,10 @@ Bu rüyalar ve sürçmeler, zihnin derinliklerinde hangi çatışmaların arka p
 
 
 ---
+
+<div align="center">
+  <img src="./banner_clinical.png" alt="Klinik Vakalar Banner" width="100%">
+</div>
 
 # Bölüm 5: Klinik Vakalar - Kuramı İnşa Eden Semptomlar
 
@@ -573,6 +581,10 @@ Kitledeki her birey, aslında bilinçdışı bir düzeyde o mutlak güce sahip, 
 
 ---
 
+<div align="center">
+  <img src="./banner_quotes.png" alt="Tarihçe Banner" width="100%">
+</div>
+
 # Sigmund Freud'un Hayatı ve Entelektüel Serüveni
 
 Sigmund Freud, zihnin coğrafyasını yeniden çizen, 20. yüzyılın en büyük düşünürlerinden ve psikanalizin kurucusudur. Hayatı, Viktorya dönemi ahlakının katı baskılarından sıyrılıp, insan ruhunun en karanlık ve "ayıp" kabul edilen dehlizlerine cesurca inen bir kâşifin öyküsüdür.
@@ -722,3 +734,4 @@ Bu depo, salt yüzeysel bir okuma alanı değil; insanın psikolojik süreçleri
 İçeriye girmeye hazırsanız, klasörler arasında kaybolabilirsiniz. Ama unutmayın:
 
 > *"Sözcükler başlangıçta büyüydü ve bugün bile büyüleyici güçlerinin çoğunu korumaktadırlar."*
+
