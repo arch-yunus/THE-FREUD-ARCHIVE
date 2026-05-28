@@ -9,6 +9,10 @@
 
 ---
 
+<div align="center">
+  <img src="./banner_topology.png" alt="Topoloji Banner" width="100%">
+</div>
+
 # Bölüm 1: Topoloji ve Mimari - Zihnin Yapısal Analizi
 
 Freud'un psikanalitik kuramının temelini zihnin anatomik değil, "topolojik" (uzamsal) bir model olarak tasvir edilmesi oluşturur. İnsan zihni, basit bir mekanik aygıt değil, farklı erişim seviyelerine ve çatışan kurallara sahip katmanlı bir yapıdır. Bu yapı tarihsel süreçte iki büyük model ile açıklanmıştır: **Topografik Model** (Buzdağı Metaforu) ve **Yapısal Model** (Kişiliğin Üçlü Yapısı).
@@ -63,6 +67,10 @@ Anksiyete, Ego'ya "zihinsel bütünlüğün bozulma tehlikesi" olduğunu bildire
 
 ---
 
+<div align="center">
+  <img src="./banner_drives.png" alt="Dürtüler Banner" width="100%">
+</div>
+
 # Bölüm 2: Dürtüler ve Termodinamik - Zihinsel Enerjinin Ekonomisi
 
 Psikanalitik kuram, kökeninde bir "enerji" modelidir (Ekonomik Model). Freud, dönemin fizik bilimindeki termodinamik yasalarından derinden etkilenmiştir (özellikle enerjinin korunumu kanunu). Zihin de kapalı bir enerji sistemi olarak çalışır. Bu sistemdeki yakıta **Psişik Enerji** denir ve zihnin tüm faaliyetleri bu enerjinin yönetimine dayanır.
@@ -106,6 +114,10 @@ Sistemin enerjisi sınırlıdır. Bu enerjinin nasıl dağıtıldığı, zihnin 
 
 
 ---
+
+<div align="center">
+  <img src="./banner_defense.png" alt="Savunma Banner" width="100%">
+</div>
 
 # Bölüm 3: Savunma Mekanizmaları
 
@@ -231,6 +243,10 @@ Freud Schreber'i hiç görmedi, Schreber'in kendi yazdığı anılar (Denkwürdi
 
 
 ---
+
+<div align="center">
+  <img src="./banner_civilization.png" alt="Uygarlık Banner" width="100%">
+</div>
 
 # Bölüm 6: Uygarlığın Huzursuzluğu - Medeniyet, Din ve Sosyoloji
 
@@ -369,6 +385,10 @@ Freud aşkı iki farklı nesne seçimi üzerinden açıklar:
 
 
 ---
+
+<div align="center">
+  <img src="./banner_development.png" alt="Gelişim Banner" width="100%">
+</div>
 
 # Bölüm 9: Psikoseksüel Gelişim Evreleri - Dürtülerin Tarihçesi
 
@@ -734,4 +754,5 @@ Bu depo, salt yüzeysel bir okuma alanı değil; insanın psikolojik süreçleri
 İçeriye girmeye hazırsanız, klasörler arasında kaybolabilirsiniz. Ama unutmayın:
 
 > *"Sözcükler başlangıçta büyüydü ve bugün bile büyüleyici güçlerinin çoğunu korumaktadırlar."*
+
 
